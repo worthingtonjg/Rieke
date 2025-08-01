@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Tennis"
-date: 2024-08-13
+title: "Thanksgiving Pictures"
+date: 2024-11-29
 ---
 
-{% for photo in site.data["photos-20240813"] %}
+{% for photo in site.data["photos-20241129"] %}
   <div>
     <img src="{{ site.baseurl }}/photos/{{ photo.file }}" alt="{{ photo.caption }}">
     <p>{{ photo.caption }}</p>
