@@ -1,0 +1,40 @@
+title: "Our Year with Rieke"
+description: "A blog of memories from our amazing exchange year"
+url: "https://worthingtonjg.github.io"
+baseurl: "/rieke"
+
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "pink"
+
+author:
+  name: "Jonathan & Family"
+  email: "worthingtonjg@gmail.com"
+  bio: "Sharing our unforgettable exchange year with Rieke 💗"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+permalink: /:year/:month/:day/:title/
+
+paginate: 5
+paginate_path: /page:num/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
