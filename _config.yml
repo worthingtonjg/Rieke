@@ -1,40 +1,22 @@
 title: "Our Year with Rieke"
-description: "A blog of memories from our amazing exchange year"
-url: "https://worthingtonjg.github.io"
+description: "A scrapbook of memories from our exchange year"
 baseurl: "/rieke"
+url: "https://worthingtonjg.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "pink"
 
 author:
   name: "Jonathan & Family"
-  email: "worthingtonjg@gmail.com"
-  bio: "Sharing our unforgettable exchange year with Rieke 💗"
-
-markdown: kramdown
-kramdown:
-  input: GFM
-
-permalink: /:year/:month/:day/:title/
-
-paginate: 5
-paginate_path: /page:num/
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-include-cache
+  bio: "Sharing a magical year with our exchange student Rieke 💗"
 
 defaults:
   - scope:
       path: ""
-      type: "posts"
+      type: posts
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: true
+
+plugins:
+  - jekyll-feed
