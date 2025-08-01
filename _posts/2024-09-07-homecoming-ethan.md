@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Homecoming with Ethan"
-date: 2024-09-06
+date: 2024-09-07
 ---
 
 {% for photo in site.data["photos-20240907"] %}
