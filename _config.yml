@@ -1,22 +1,9 @@
 title: "Our Year with Rieke"
-description: "A scrapbook of memories from our exchange year"
-baseurl: "/rieke"
+description: "A blog of memories from our exchange year"
 url: "https://worthingtonjg.github.io"
+baseurl: "/rieke"
 
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "pink"
+theme: minima
 
 author:
   name: "Jonathan & Family"
-  bio: "Sharing a magical year with our exchange student Rieke 💗"
-
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-
-plugins:
-  - jekyll-feed
