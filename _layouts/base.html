@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+  <head>
+    {%- include head.html -%}
+    <style>
+      header.site-header {
+        position: sticky;
+        top: 0;
+        background: white;
+        z-index: 1000;
+        border-bottom: 1px solid #eee;
+      }
+
+      body {
+        padding-top: 4rem; /* adjust if header is taller */
+      }
+
+      .day-nav-float {
+        position: fixed;
+        bottom: 80px;
+        right: 20px;
+        background: white;
+        padding: 0.5em 1em;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        font-size: 0.9em;
+        z-index: 1001;
+        }
+        .day-nav-float a {
+        margin: 0 0.5em;
+        text-decoration: none;
+        }
+        .glider img {
+          height: 600px;      /* or whatever fixed height you want */
+          object-fit: cover;  /* or use contain, depending on effect */
+        }
+
+    </style>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.js"></script>
+  </head>
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+  <script>
+    window.addEventListener('load', function(){
+     new Glider(document.querySelector('.glider'), {
+        slidesToShow: 1,
+        dots: '.dots',
+        arrows: {
+          prev: '.glider-prev',
+          next: '.glider-next'
+        },
+        draggable: true,
+        scrollLock: true
+      });
+    })
+  </script>
+</html>
