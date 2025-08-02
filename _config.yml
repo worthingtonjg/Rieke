@@ -3,5 +3,3 @@ description: "A blog of memories from our exchange year"
 theme: minima
 baseurl: "/rieke"
 url: "https://worthingtonjg.github.io"
-sass:
-  style: compressed
