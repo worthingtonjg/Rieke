@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thanksgiving Pictures"
+title: "Gingerbread Cookies"
 date: 2024-12-12
 ---
 
