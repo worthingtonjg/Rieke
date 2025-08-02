@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Relaxing at the KOA"
 date: 2025-04-02
 ---

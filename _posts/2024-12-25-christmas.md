@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Christmas and the Grinch"
 date: 2024-12-23
 ---

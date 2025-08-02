@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Chruch ~ Matchies"
 date: 2025-04-13
 ---

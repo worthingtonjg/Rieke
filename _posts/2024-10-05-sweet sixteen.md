@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Sweet Sixteen"
 date: 2024-10-05
 ---

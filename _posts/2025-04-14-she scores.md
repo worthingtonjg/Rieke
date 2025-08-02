@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Lacrosse ~ She scores!"
 date: 2025-04-14
 ---

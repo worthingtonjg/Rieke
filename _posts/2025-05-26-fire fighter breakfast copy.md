@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Fire Fighter Breakfast"
 date: 2025-05-26
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Gingerbread Cookies"
 date: 2024-12-12
 ---

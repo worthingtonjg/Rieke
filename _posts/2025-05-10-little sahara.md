@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "The Little Sahara ~ Sand Dunes in Utah?"
 date: 2025-05-10
 ---

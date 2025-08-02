@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Imagine Dragons"
 date: 2024-10-15
 ---

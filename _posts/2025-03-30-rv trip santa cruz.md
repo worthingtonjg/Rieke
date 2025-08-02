@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "RV trip in Santa Cruz"
 date: 2025-03-30
 ---

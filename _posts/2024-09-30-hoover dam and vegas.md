@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Hoover Dam and Vegas"
 date: 2024-09-30
 ---

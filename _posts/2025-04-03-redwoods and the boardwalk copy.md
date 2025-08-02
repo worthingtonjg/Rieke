@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Redwoods and the Boardwalk"
 date: 2025-04-03
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Nevada and Bonneville Salt Flats"
 date: 2024-09-13
 ---

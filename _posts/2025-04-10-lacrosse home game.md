@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Lacrosse - Another home game"
 date: 2025-04-10
 ---

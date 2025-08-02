@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Missionary Month"
 date: 2025-03-05
 ---

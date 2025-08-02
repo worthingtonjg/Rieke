@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Ward Christmas Party and School Dance with Addie"
 date: 2024-12-14
 ---

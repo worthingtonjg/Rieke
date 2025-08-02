@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Young Women ~ Pajama Party"
 date: 2025-01-08
 ---

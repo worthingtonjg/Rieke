@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Beauty and the Beast at Hale Center Theatre"
 date: 2024-12-23
 ---

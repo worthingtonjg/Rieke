@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Dress and Shoe Shopping"
 date: 2024-08-24
 ---

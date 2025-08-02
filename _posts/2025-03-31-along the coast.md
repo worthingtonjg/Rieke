@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Exploring Santa Cruz"
 date: 2025-03-31
 ---

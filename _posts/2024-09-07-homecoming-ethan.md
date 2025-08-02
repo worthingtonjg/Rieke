@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Homecoming with Ethan"
 date: 2024-09-07
 ---

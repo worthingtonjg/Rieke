@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Bridal Viel Falls and Bike Ride"
 date: 2024-09-02
 ---

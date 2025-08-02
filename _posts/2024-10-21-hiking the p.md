@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Hiking the Payson P"
 date: 2024-10-21
 ---

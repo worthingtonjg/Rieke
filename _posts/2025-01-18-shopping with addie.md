@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Shopping with Addie"
 date: 2025-01-18
 ---

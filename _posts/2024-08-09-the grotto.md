@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "The Grotto and Karate"
 date: 2024-08-09
 ---
@@ -11,11 +11,3 @@ date: 2024-08-09
   </div>
 {% endfor %}
 
-<div class="day-nav-float">
-  {% if page.previous %}
-    <a href="{{ page.previous.url | relative_url }}">← {{ page.previous.title }}</a>
-  {% endif %}
-  {% if page.next %}
-    <br/><a href="{{ page.next.url | relative_url }}">{{ page.next.title }} →</a>
-  {% endif %}
-</div>

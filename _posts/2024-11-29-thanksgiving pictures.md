@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Thanksgiving Pictures"
 date: 2024-11-29
 ---

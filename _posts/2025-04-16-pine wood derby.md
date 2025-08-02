@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Pine Wood Derby"
 date: 2025-04-16
 ---

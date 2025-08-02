@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Dance Peformance ~ Round 2"
 date: 2025-05-13
 ---

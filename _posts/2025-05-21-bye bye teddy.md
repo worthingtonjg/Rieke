@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Bye Bye Teddy"
 date: 2025-05-21
 ---

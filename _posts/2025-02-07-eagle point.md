@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Skiing at Eagle Point"
 date: 2025-02-07
 ---

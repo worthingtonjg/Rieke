@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Southern Utah"
 date: 2024-11-02
 ---

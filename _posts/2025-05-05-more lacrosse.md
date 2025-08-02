@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "More Lacrosse"
 date: 2025-05-05
 ---

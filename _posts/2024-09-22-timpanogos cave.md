@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Timpanogos Cave"
 date: 2024-09-22
 ---

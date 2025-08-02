@@ -35,16 +35,27 @@
   </head>
 
   <body>
-<div>THIS SHOULD WORK</div>
+
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
+
+        <div class="day-nav-float">
+          {% if page.previous %}
+            <a href="{{ page.previous.url | relative_url }}">← {{ page.previous.title }}</a>
+          {% endif %}
+          {% if page.next %}
+            <br/><a href="{{ page.next.url | relative_url }}">{{ page.next.title }} →</a>
+          {% endif %}
+        </div>
       </div>
     </main>
 
     {%- include footer.html -%}
 
+
+    
   </body>
 </html>

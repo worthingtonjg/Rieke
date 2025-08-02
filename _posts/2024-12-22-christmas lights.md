@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Christmas Lights at the Aquarium"
 date: 2024-12-22
 ---

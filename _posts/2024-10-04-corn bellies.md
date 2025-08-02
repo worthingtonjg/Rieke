@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Corn Bellies"
 date: 2024-10-04
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: "Ward Campout"
 date: 2024-09-06
 
