@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Imagin Dragons"
+title: "Imagine Dragons"
 date: 2024-10-15
 ---
 
