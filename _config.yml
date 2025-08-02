@@ -1,9 +1,5 @@
 title: "Our Year with Rieke"
 description: "A blog of memories from our exchange year"
-url: "https://worthingtonjg.github.io"
-baseurl: "/rieke"
-
 theme: minima
-
-author:
-  name: "Jonathan & Family"
+baseurl: "/rieke"
+url: "https://worthingtonjg.github.io"
