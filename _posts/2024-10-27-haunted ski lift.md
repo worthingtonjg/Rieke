@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "A Very Harry Potter Cabin Weekend"
+title: "Haunted Lifts and Halloween Chills"
 date: 2024-10-27
 ---
 
