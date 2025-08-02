@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Hair ~ Experimenting before Prom"
+date: 2025-04-15
+---
+
+{% for photo in site.data["photos-20250415"] %}
+  <div>
+    <img src="{{ site.baseurl }}/photos/{{ photo.file }}" alt="{{ photo.caption }}">
+    <p>{{ photo.caption }}</p>
+  </div>
+{% endfor %}
