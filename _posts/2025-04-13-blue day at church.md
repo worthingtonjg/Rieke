@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Chruch ~ Matchies"
+title: "Church ~ Matchies"
 date: 2025-04-13
 ---
 
